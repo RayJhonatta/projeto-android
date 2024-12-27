@@ -43,7 +43,7 @@ header > p {
     max-width: 500px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
-    margin-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 nav {
@@ -74,11 +74,11 @@ nav > a:hover {
 }
 
 main {
-    padding: 20px;
+    padding: 25px;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
-    width: 92%;
+    width: 90%;
     max-width: 1000px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.418);
     border-bottom-left-radius: 10px;
