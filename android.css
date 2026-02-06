@@ -85,14 +85,14 @@ main {
     border-bottom-right-radius: 10px;
 }
 
-article > h1 {
+section > h1 {
     font-family: 'idroid', sans-serif;
     color: green;
     font-weight: normal;
     font-size: 1.8em;
 }
 
-article > h2 {
+section > h2 {
     font-family: 'idroid', sans-serif;
     color: rgb(3, 144, 3);
     font-size: 1.4em;
@@ -101,7 +101,7 @@ article > h2 {
     font-weight: normal;
 }
 
-article > p {
+section > p {
     margin: 15px 0px;
     text-indent: 30px;
     font-size: 1em;
