@@ -94,7 +94,7 @@ section > h1 {
 
 section > h2 {
     font-family: 'idroid', sans-serif;
-    color: red;
+    color: rgb(3, 144, 3);
     font-size: 1.4em;
     background-image: linear-gradient( to right, #83e1ad5f, transparent);
     text-indent: 8px;
